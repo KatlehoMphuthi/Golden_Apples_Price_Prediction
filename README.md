@@ -6,8 +6,10 @@ Project was provided and supervise by Explore Data Science Academy (EDSA)
 ### Team Members:
 
 Brighton Nkomo (Github username: @Brighton94)
-Rickie Mogale Mohale ()
-Thanyani Khedzi ()
+
+Rickie Mogale Mohale (Github username: @RickieMohale)
+
+Thanyani Khedzi (Github username: @Thanyi87)
 
 ### Supervisor:
 
